@@ -2,7 +2,7 @@
 Exercise of project kabug with Ruby, Cucumber, Capybara and  Jenkins in Pipeline Script for test regression
 
 
-## How to run the project
+## How to execute the project
 
 Ruby installed (version 2.5 or superior)
 
